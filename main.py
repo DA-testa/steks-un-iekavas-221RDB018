@@ -1,4 +1,4 @@
-# Nina Aljanaki 221RDB018
+# Ņina Aļjanaki 221RDB018
 
 from collections import namedtuple
 
